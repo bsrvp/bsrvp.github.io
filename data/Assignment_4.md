@@ -2,8 +2,6 @@
 
 ### Dead Line for Upload of the Assignment Records to VTOP is ==29-Mar-2020==
 
-## 
-
 Dear students,
 
 Please download the following three data files
