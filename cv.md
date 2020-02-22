@@ -59,4 +59,4 @@ Indian Society of Theoretical and Applied Mechanics
 
 
 
-You can download my complete CV from [here](https://bsrvp.github.io/files/bsrvprasad_cv.pdf).
+You can download my complete CV from [here](/files/bsrvprasad_cv.pdf).
