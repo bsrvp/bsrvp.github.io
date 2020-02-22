@@ -7,6 +7,7 @@ Created on Sat Feb 22 09:15:31 2020
 
 import numpy as np
 import scipy as sp
+from scipy import optimize, stats, linspace, polyfit, interpolate
 import pandas as pd
 from matplotlib import pyplot as plt
 
@@ -25,14 +26,28 @@ Phy['Others'] = Phy.iloc[:,3] - Phy.iloc[:,1] - Phy.iloc[:,2]
 
 Phy.iloc[:,1:6].plot()
 
+Days = Nut.iloc[:,0]
 DOC = DO.iloc[:,1]
 Cyano = Phy.iloc[:,1]
 Chloro = Phy.iloc[:,2]
 NH4 = Nut.iloc[:,1]
-NO3 = Nut.iloc[:,2]
+NO3 = Nut.iloc[:,3]
+
+DOint = interpolate.interp1d(Days, DOC, kind='cubic')
+TotDays = np.linspace(1,364,364)
+plt.figure()
+plt.plot(Days, DOC, 'ro', TotDays, DOint(TotDays), '--g')
+
+def f(x,a,b):
+    return a*x+b
+
+popt, cov = optimize.curve_fit(f, Nut.iloc[:,4], DOC)
 
 plt.figure()
-plt.scatter(DOC, NH4)
+plt.plot(Nut.iloc[:,4], DOC, 'ro', Nut.iloc[:,4], f(Nut.iloc[:,4], *popt), '--g')
+
+(a_s, b_s, r, tt, stderr) = stats.linregress(Nut.iloc[:,4], DOC)
+xDOC = np.polyval([a_s, b_s], Nut.iloc[:,4])
 
 plt.figure()
-plt.scatter(DOC, NO3)
+plt.plot(Nut.iloc[:,4], DOC, 'ro', Nut.iloc[:,4], xDOC, '--g')

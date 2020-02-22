@@ -26,17 +26,18 @@ You need to perform the following tasks on these three data sets.
 
 - Add a column  **DIN**  (stands for Dissolved Inorganic Nitrogen) to this DataFrame, where **DIN = NH4-N+NO2-N+NO3-N**.
 - Add another column **DON**  (stands for Dissolved Organic Nitrogen) to this DataFrame, where **DON = TN -- DIN**.
-- Plot the all the data using area plot and box plot of DataFrame.
+- Describe characteristics of the DataFrame.
+- Plot the all the data (except the Day Count column) using area plot and box plot of DataFrame.
+- Compare the DIN vs DON composition graphically.
 
 **Q2)**  Read the data file **PhytoBiomass.xlsx** into a DataFrame and perform the following tasks:
 
 - Add a column **Others** which list the biomass of  other phytoplankton groups obtained by substracting Total Biomass with sum of the biomass of Cynophyceans and Chlorophyceans.
-- Plot the biomass composition as a Pie chart.
-- It is known that Chlorophyceans prefer NH4-N and Cynophyceans prefer NO3-N.  So, using scatter plot show the relation between these groups and as well fit these data using a straight line by implementing the appropriate routine from SciPy.
+- Describe the characteristics of the DataFrame.
+- Plot the biomass composition of each group using bar plot.
 
 **Q3)**  Read the data file DOData.csv into a DataFrame and perform the following tasks:
 
-- Plot the monthly data using bar plot
-- Construct a Spline interpolation polynomial and use this to estimate the DO for any continuous 30 days.
-- Perform a  comparative analysis of DO, NH4-N and DO, NO3-N by using regression analysis routine of SciPy.
-
+- Plot the monthly data using bar plot.
+- Construct a Spline interpolation polynomial and use this to estimate the DO for the complete year starting from day $1$ to day $364$ and visualize the both the data sets.
+- Perform a  comparative analysis of DO with that of TN by using regression analysis or curve fit routine of SciPy. Plot DO vs TN as well the Regression line.
