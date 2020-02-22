@@ -13,7 +13,7 @@ from matplotlib import pyplot as plt
 
 DO = pd.read_csv('http://bsrvp.github.io/data/DOData.csv')
 Nut = pd.read_excel('http://bsrvp.github.io/data/NutAverage.xlsx')
-Phy = pd.read_excel('http://bsrvp.github.io/data/PhytoBiomass.xlsx')
+Phy = pd.read_excel('http://bsrvp.github.io/data/PythoBiomass.xlsx')
 
 Nut['DIN'] = Nut['NH4-N'] + Nut['NO2-N'] + Nut['NO3-N']
 Nut['DON'] = Nut['TN'] - Nut['DIN']
