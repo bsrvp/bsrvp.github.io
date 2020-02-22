@@ -8,7 +8,7 @@ Please download the following three data files
 
 - [DOData.csv](https://bsrvp.github.io/data/DOData.csv)  (https://bsrvp.github.io/data/DOData.csv)
 - [NutAverage.xlsx](https://bsrvp.github.io/data/NutAverage.xlsx) (https://bsrvp.github.io/data/NutAverage.xlsx)
-- [PhytoBiomass.xlsx](https://bsrvp.github.io/data/PythoBiomass.xlsx) (https://bsrvp.github.io/data/PythoBiomass.xlsx)
+- [PythoBiomass.xlsx](https://bsrvp.github.io/data/PythoBiomass.xlsx) (https://bsrvp.github.io/data/PythoBiomass.xlsx)
 
 
 
