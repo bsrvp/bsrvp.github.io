@@ -50,17 +50,7 @@
 
 ### MEMBERSHIP IN PROFESSIONAL ORGANIZATIONS
 
-Society for Mathematical Biology
-
-Society for Industrial and Applied Mathematics
-
-European Society for Mathematical and Theoretical Biology
-
-Ecological Society of America
-
-Indian Society of Theoretical and Applied Mechanics
-
-Indian Mathematical Society
+Society for Mathematical Biology <br>Society for Industrial and Applied Mathematics <br>European Society for Mathematical and Theoretical Biology <br>Ecological Society of America <br>Indian Society of Theoretical and Applied Mechanics <br>Indian Mathematical Society
 
 
 
