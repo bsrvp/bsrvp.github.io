@@ -26,9 +26,15 @@ K. Durga Prasad, **B.S.R.V. Prasad**, 2019. Qualitative analysis of additional f
 
 Seshadev Padhi**, B.S.R.V. Prasad,** Satyam Narayan Srivastava, Shasanka Dev Bhuyan, 2019. Monotone Iterative Method for Solutions of Fractional Differential Equations. Memoirs on Differential Equations and Mathematical Physics, Vol. 77, pp. 59-69.
 
+Seshadev Padhi, **B.S.R.V. Prasad**, 2020. Monotone Iterative Method for Solutions of a Cantilever Beam Equation with One Free End. Advances in Nonlinear Variational Inequalities, Vol. 23(2), pp. 15-22.
+
 Seshadev Padhi, **B.S.R.V. Prasad**, Divya Mahendru, 2019. System of Riemann-Liouville fractional differential equations with nonlocal boundary conditions: Existence, uniqueness, and multiplicity of solutions. Mathematical Methods in the Applied Sciences. doi:[10.1002/mma.5812](https://doi.org/10.1002/mma.5812).
 
-Seshadev Padhi, **B.S.R.V. Prasad**, Divya Mahendru, 2019. Systems of Riemann-Liouville fractional differential equations with nonlocal boundary conditions—Existence, nonexistence, and multiplicity of solutions: Method of fixed point index. Mathematical Methods in the Applied Sciences. doi:[10.1002/mma.5931](https://doi.org/10.1002/mma.5931).
+Seshadev Padhi, **B.S.R.V. Prasad**, Divya Mahendru, 2021. System of Riemann-Liouville fractional differential equations with nonlocal boundary conditions: Existence, uniqueness, and multiplicity of solutions. Mathematical Methods in the Applied Sciences, Vol. 44(10), pp. 8125-8149. doi: [10.1002/mma.5812](https://doi.org/10.1002/mma.5812).
+
+Seshadev Padhi, **B.S.R.V. Prasad**, Divya Mahendru, 2021. Systems of Riemann-Liouville fractional differential equations with nonlocal boundary conditions—Existence, nonexistence, and multiplicity of solutions: Method of fixed point index.  Mathematical Methods in the Applied Sciences, Vol. 44(10), pp. 8266-8285. doi: [10.1002/mma.5931](https://doi.org/10.1002/mma.5931).
+
+M.S. Bhuvaneswari, **B.S.R.V. Prasad**, 2022. Additional food induced nonlinear interspecific competitive interactions between pests and its outcome on the biological control programs. Functional Differential Equations (Accepted for publication).
 
 
 
