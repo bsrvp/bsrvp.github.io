@@ -1,10 +1,10 @@
 # **Software and Programming Tools for Researchers**
 
-Dr. B.S.R.V. Prasad
-Department of Mathematics
-School of Advanced Sciences
-Vellore Institute of Technology
-Vellore - 632014, TN, India
+Dr. B.S.R.V. Prasad,
+Department of Mathematics,
+School of Advanced Sciences,
+Vellore Institute of Technology,
+Vellore - 632014, TN, India.
 
 ---
 
