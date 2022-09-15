@@ -56,4 +56,4 @@ Society for Mathematical Biology <br>Society for Industrial and Applied Mathemat
 
 
 
-You can download my complete CV from [here](/files/bsrvprasad_cv.pdf).
+You can download my complete CV from [here](/files/BSRVPrasad_CV.pdf).
