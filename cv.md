@@ -4,11 +4,13 @@
 
 ### CURRENT APPOINTMENT
 
-**July 2017 – Present**: Assistant Professor (Senior), Department of Mathematics, School of Advanced Sciences, Vellore Institute of Technology, Vellore.
+**August 2022 –  Present**: Associate Professor (Grade - I), Department of Mathematics, School of Advanced Sciences, Vellore Institute of Technology, Vellore.
 
 
 
 ### PREVIOUS APPOINTMENTS:
+
+**July 2017 – July 2022**: Assistant Professor (Senior), Department of Mathematics, School of Advanced Sciences, Vellore Institute of Technology, Vellore.
 
 **June 2012 – June 2017**: Assistant Professor, Department of Mathematics, School of Advanced Sciences, VIT University, Vellore.
 

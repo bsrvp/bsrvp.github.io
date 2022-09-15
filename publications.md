@@ -34,9 +34,9 @@ Seshadev Padhi, **B.S.R.V. Prasad**, Divya Mahendru, 2021. System of Riemann-Lio
 
 Seshadev Padhi, **B.S.R.V. Prasad**, Divya Mahendru, 2021. Systems of Riemann-Liouville fractional differential equations with nonlocal boundary conditions—Existence, nonexistence, and multiplicity of solutions: Method of fixed point index.  Mathematical Methods in the Applied Sciences, Vol. 44(10), pp. 8266-8285. doi: [10.1002/mma.5931](https://doi.org/10.1002/mma.5931).
 
-M.S. Bhuvaneswari, **B.S.R.V. Prasad**, 2022. Additional food induced nonlinear interspecific competitive interactions between pests and its outcome on the biological control programs. Functional Differential Equations (Accepted for publication).
+M.S. Bhuvaneswari, **B.S.R.V. Prasad**, 2022. Additional food induced nonlinear interspecific competitive interactions between pests and its outcome on the biological control programs. Functional Differential Equations, Vol. 29(1-2), pp. 7-22.  doi: [10.26351/FDE/29/1-2/1](https://doi.org/10.26351/FDE/29/1-2/1).
 
-
+K. Durga Prasad, **B.S.R.V. Prasad**, 2022. Dynamics of additional food provided predator–prey system with habitat fragmentation. International Journal of Biomathematics (Online Ready). doi: [10.1142/S1793524522500942](https://doi.org/10.1142/S1793524522500942).
 
 ## **Book Chapters and Books Edited:**
 
