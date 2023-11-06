@@ -12,7 +12,7 @@ jobs:
           ref: dummy-data    #checkout different branch
 
       - name: Generate Directory Listings
-        uses: bsrvp
+        uses: bsrvp/data
         with:
           FOLDER: data      #directory to generate index
 
