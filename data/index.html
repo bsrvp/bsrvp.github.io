@@ -1,27 +1,11 @@
-<html>
-<body>
-<h2>Directory Listing</h2>
-<p>
-    <li><a href="Averages.xls">Averages.xls</a></li>
-    <li><a href="DOData.csv">DOData.csv</a></li>
-    <li><a href="DataCorr.xlsx">DataCorr.xlsx</a></li>
-    <li><a href="DataCov.xlsx">DataCov.xlsx</a></li>
-    <li><a href="HousingData.csv">HousingData.csv</a></li>
-    <li><a href="MonthlyAverages.csv">MonthlyAverages.csv</a></li>
-    <li><a href="MyData.csv">MyData.csv</a></li>
-    <li><a href="MyData.xlsx">MyData.xlsx</a></li>
-    <li><a href="NutAverage.xlsx">NutAverage.xlsx</a></li>
-    <li><a href="PhytoBiomass.xlsx">PhytoBiomass.xlsx</a></li>
-    <li><a href="PythoBiomass.xlsx">PythoBiomass.xlsx</a></li>
-    <li><a href="Testing.csv">Testing.csv</a></li>
-    <li><a href="Testing.xlsx">Testing.xlsx</a></li>
-    <li><a href="WQ.xls">WQ.xls</a></li>
-    <li><a href="WQTesting.csv">WQTesting.csv</a></li>
-    <li><a href="WQTesting.xlsx">WQTesting.xlsx</a></li>
-    <li><a href="Weather.csv">Weather.csv</a></li>
-    <li><a href="WineQuality.csv">WineQuality.csv</a></li>
-    <li><a href="WQ_FAT.xlsx">WQ_FAT.xlsx</a></li>
-    <li><a href="MonthlyAverages_FAT.xlsx">MonthlyAverages_FAT.xlsx</a></li>
-</p>
-</body>
-</html>
+---
+title: Index of files
+--- 
+ {% assign doclist = site.pages | sort: 'url'  %}
+    <ul>
+       {% for doc in doclist %}
+            {% if doc.name contains '.md' or doc.name contains '.html' %}
+                <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.url }}</a></li>
+            {% endif %}
+        {% endfor %}
+    </ul>
